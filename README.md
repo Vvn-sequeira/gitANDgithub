@@ -5,4 +5,4 @@ this is Demo for git : git Hub class
 Shradha Khapra
 
 # student 
-vivian marcel sequeira 
+vivian marcel sequeira amaizing
